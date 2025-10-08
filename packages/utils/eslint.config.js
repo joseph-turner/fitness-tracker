@@ -1,3 +1,3 @@
-import baseConfig from "@fitness/eslint-config/base";
+import { config } from '@fitness/eslint-config/base';
 
-export default [...baseConfig];
+export default config;
